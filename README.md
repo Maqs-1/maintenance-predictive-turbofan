@@ -80,10 +80,7 @@ maintenance-predictive-turbofan/
 │   └── NASA_finale_v1.ipynb               # Pipeline complet — 10 étapes commentées
 │
 ├── presentation/
-│   └── ML_Turbofan_v3.pptx               # Présentation 18 slides avec storytelling
-│
-├── rapport/
-│   └── Rapport_ML_NASA_Maintenance_Predictive.pdf    
+│   └── ML_Turbofan_v3.pptx               # Présentation 18 slides avec storytelling  
 │
 └── data/
     ├── README.md                          # Instructions de téléchargement
