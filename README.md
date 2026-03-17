@@ -83,20 +83,7 @@ maintenance-predictive-turbofan/
 │   └── ML_Turbofan_v3.pptx               # Présentation 18 slides avec storytelling
 │
 ├── rapport/
-│   └── Rapport_ML_NASA_Maintenance_Predictive.pdf
-│
-├── assets/
-│   ├── README.md                          # Description des figures
-│   ├── charts/                            # Graphiques d'exploration et résultats
-│   │   ├── distribution_durees_vie.png
-│   │   ├── degradation_capteur_s15.png
-│   │   ├── comparison_rf_xgboost.png
-│   │   ├── scatter_rul_predit_reel.png
-│   │   └── crossval_stabilite.png
-│   └── shap/                              # Visualisations SHAP
-│       ├── shap_bar_importance_globale.png
-│       ├── shap_beeswarm_direction.png
-│       └── shap_waterfall_moteur_critique.png
+│   └── Rapport_ML_NASA_Maintenance_Predictive.pdf    
 │
 └── data/
     ├── README.md                          # Instructions de téléchargement
